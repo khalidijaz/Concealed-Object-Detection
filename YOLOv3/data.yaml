@@ -1,0 +1,7 @@
+path: 'C:/Users/Khalid/Desktop/khalid_weapon_yolo3' #dataset root dir
+
+train: ./train_dataset/images
+val: ./val_dataset/images
+test: ./test_dataset/images
+nc: 2
+names: ['person', 'gun']
